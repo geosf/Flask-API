@@ -3,18 +3,14 @@
 
 <h2>Ferramentas necessárias para rodar a aplicação:</h2>
 <ul class="lista">
-<li></li>
-<li></li>
+<li>Python</li>
+<li>NodeJs</li>
 </ul>
 
-<p>Para rodar o código, em primeiro lugar é necessário instalar as dependencias da API dentro da pasta principal (onde será baixado o repositório) utilizando <span>pip install requirements</span> e, logo após, utilizar o comando <span>npm i</span> ou <span>npm install</span> para instalar as dependencias do frontend.</p>
+<p>Para rodar o código, em primeiro lugar é necessário instalar as dependencias da API dentro da pasta principal (onde será baixado o repositório) utilizando "pip install requirements" e, logo após, utilizar o comando "npm i" ou "npm install" para instalar as dependencias do frontend.</p>
+
+<p>Feito isso, acesse a pasta principal onde foi instalado o repositório e rode o comando "pip install", depois entre no diretório "frontend" e rode o comando "npm run serve" e a aplicação completa estará rodando.</p>
+
+<p>Você pode acessar o frontend da aplicação completa na porta <a href="http://localhost:8080" target="_blank">http://localhost:8080</a> e a documentação da api encontra-se na porta <a href="http://localhost:5000/docs" target="_blank">http://localhost:5000/docs</a></p>
 
 </div>
-
-<style>
-
-span{
-    background-color: gray;
-}
-
-</style>
