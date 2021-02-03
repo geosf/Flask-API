@@ -11,6 +11,6 @@
 
 <p>Feito isso, acesse a pasta principal onde foi instalado o repositório e rode o comando "pip install", depois entre no diretório "frontend" e rode o comando "npm run serve" e a aplicação completa estará rodando.</p>
 
-<p>Você pode acessar o frontend da aplicação completa <a href="http://localhost:8080" target="_blank">aqui</a> e a documentação da api encontra-se <a href="http://localhost:5000/docs" target="_blank">aqui</a>.</p>
+<p>Você pode acessar o frontend da aplicação completa <a href="http://localhost:8080" target="_blank">aqui</a> e a documentação da API <a href="http://localhost:5000/docs" target="_blank">aqui</a>.</p>
 
 </div>
