@@ -5,8 +5,6 @@ K árvores consecutivas e Carla de L árvores consecutivas. Eles querem escolher
 disjuntos, ou seja, que não se sobrepõem para não interferirem na coleta do outro. Qual o maior
 número de maçãs que os dois juntos podem coletar?</p>
 
-<h2>Instruções</h2>
-
 <h2>Ferramentas necessárias para rodar a aplicação:</h2>
 <ul class="lista">
 <li>Python</li>
@@ -18,3 +16,7 @@ número de maçãs que os dois juntos podem coletar?</p>
 <p>Feito isso, acesse a pasta principal onde foi instalado o repositório e rode o comando "pip install", depois entre no diretório "frontend" e rode o comando "npm run serve" e a aplicação completa estará rodando.</p>
 
 <p>Quando a api e o front estiverem rodando, você pode acessar o frontend da aplicação completa <a href="http://localhost:8080" target="_blank">aqui</a> e a documentação da API <a href="http://localhost:5000/docs" target="_blank">aqui</a>.</p>
+
+<small><p>OBS: O campo inicial deve ser escrito no padrão "número,número,número"...</p>
+  <p>Exemplo: 3,4,1,7,8,5</p>
+</small>
