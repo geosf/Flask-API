@@ -12,3 +12,10 @@
 <p>Feito isso, acesse a pasta principal onde foi instalado o repositório e rode o comando "pip install", depois entre no diretório "frontend" e rode o comando "npm run serve" e a aplicação completa estará rodando.</p>
 
 <p>Quando a api e o front estiverem rodando, você pode acessar o frontend da aplicação completa <a href="http://localhost:8080" target="_blank">aqui</a> e a documentação da API <a href="http://localhost:5000/docs" target="_blank">aqui</a>.</p>
+
+<h2>Enunciado</h2>
+<p>Duas pessoas, Marcelo e Carla, trabalham em uma fazenda de maçãs na qual existem N árvores. As
+árvores estão alinhadas em uma fileira e são numeradas de 1 a N. Marcelo planeja coletar maçãs de
+K árvores consecutivas e Carla de L árvores consecutivas. Eles querem escolher segmentos
+disjuntos, ou seja, que não se sobrepõem para não interferirem na coleta do outro. Qual o maior
+número de maçãs que os dois juntos podem coletar?</p>
